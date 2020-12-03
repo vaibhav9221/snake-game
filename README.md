@@ -20,7 +20,6 @@ Cheats
 
 
 Press Q to add extra 10 points. 😄
-Follow Me On Instagram at RohanDasRD
-Thanks to Harsh Trivedi for creating this README
+
 ThankYou!
 
